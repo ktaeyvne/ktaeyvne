@@ -1,12 +1,9 @@
 <h1 align="center">🖥️ COSMIC TERMINAL</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&width=800&lines=booting+system...;initializing+core...;user:+ktaeyvne;role:+front-end+developer;status:+active;launching+galaxy+interface..." />
+  <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1200&auto=format&fit=crop&sat=-30&hue=280" width="50%"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="500"/>
-</p>
 
 ---
 
@@ -28,17 +25,15 @@
 </p>
 
 ---
-
 ## > analytics.core
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ktaeyvne&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktaeyvne&theme=tokyonight"/>
   <br>
   <img src="https://streak-stats.demolab.com?user=ktaeyvne&theme=tokyonight&hide_border=true"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktaeyvne&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ktaeyvne&theme=tokyonight"/>
 </p>
-
 ---
 
 ## > activity.visualizer
