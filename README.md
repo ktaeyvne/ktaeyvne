@@ -13,7 +13,7 @@
     user        : ktaeyvne
     role        : front-end developer
     focus       : web development
-    stack       : html, css, javascript, react
+    stack       : html, css, javascript
     status      : active
 
 ---
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode&theme=dark" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 
     > help
     - about        : show profile
-    - skills       : html, css, javascript, react
+    - skills       : html, css, javascript
     - projects     : loading
     - status       : active
 
@@ -118,5 +118,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:8a2be2,100:da70d6&height=170&section=footer&animation=twinkling"/>
+   <img src="https://raw.githubusercontent.com/ktaeyvne/ktaeyvne/main/plush.gif" width="100%"/>
 </p>
