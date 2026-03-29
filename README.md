@@ -4,28 +4,33 @@
   <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1200&auto=format&fit=crop&sat=-30&hue=280" width="50%"/>
 </p>
 
-
 ---
 
-## > system.info
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=8A2BE2&center=true&vCenter=true&width=400&lines=⌬+SYSTEM.INFO" />
+</p>
 
     user        : ktaeyvne
     role        : front-end developer
     focus       : web development
     stack       : html, css, javascript, react
-    environment : galaxy_terminal
     status      : active
 
 ---
 
-## > tech.stack
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=8A2BE2&center=true&vCenter=true&width=400&lines=⌬+TECH.STACK" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,github,vscode&theme=dark" />
 </p>
 
 ---
-## > analytics.core
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=8A2BE2&center=true&vCenter=true&width=500&lines=⌬+ANALYTICS.CORE" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktaeyvne&theme=tokyonight"/>
@@ -34,9 +39,12 @@
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ktaeyvne&theme=tokyonight"/>
 </p>
+
 ---
 
-## > activity.visualizer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=8A2BE2&center=true&vCenter=true&width=550&lines=⌬+ACTIVITY.VISUALIZER" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ktaeyvne/ktaeyvne/output/github-contribution-grid-snake-dark.svg" />
@@ -44,7 +52,9 @@
 
 ---
 
-## > terminal.interface
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=8A2BE2&center=true&vCenter=true&width=550&lines=⌬+TERMINAL.INTERFACE" />
+</p>
 
     > help
     - about        : show profile
@@ -59,7 +69,9 @@
 
 ---
 
-## > project.loader
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=8A2BE2&center=true&vCenter=true&width=500&lines=⌬+PROJECT.LOADER" />
+</p>
 
     [ scanning repositories... ]
     [ initializing modules... ]
@@ -68,7 +80,9 @@
 
 ---
 
-## > network.access
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=8A2BE2&center=true&vCenter=true&width=500&lines=⌬+NETWORK.ACCESS" />
+</p>
 
 <p align="center">
   <a href="https://github.com/ktaeyvne">
@@ -78,15 +92,23 @@
 
 ---
 
-## > visitor.counter
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=8A2BE2&center=true&vCenter=true&width=500&lines=⌬+VISITOR.COUNTER" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ktaeyvne&label=system%20visitors&color=00F7FF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=ktaeyvne&label=system%20visitors&color=8A2BE2&style=for-the-badge"/>
 </p>
 
 ---
 
-## > system.message
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=8A2BE2&center=true&vCenter=true&width=500&lines=⌬+SYSTEM.MESSAGE" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="250"/>
+</p>
 
     build consistently.
     improve daily.
@@ -96,5 +118,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=170&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b0082,50:8a2be2,100:da70d6&height=170&section=footer&animation=twinkling"/>
 </p>
