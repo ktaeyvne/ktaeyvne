@@ -1,7 +1,11 @@
 <h1 align="center">🖥️ COSMIC TERMINAL</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=20&width=700&lines=booting+system...;initializing+core...;user:+ktaeyvne;access:+granted;launching+interface..." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&width=800&lines=booting+system...;initializing+core...;user:+ktaeyvne;role:+front-end+developer;status:+active;launching+galaxy+interface..." />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="500"/>
 </p>
 
 ---
@@ -10,9 +14,10 @@
 
     user        : ktaeyvne
     role        : front-end developer
-    system      : online
-    interface   : galaxy_terminal
-    status      : building modern web experience
+    focus       : web development
+    stack       : html, css, javascript, react
+    environment : galaxy_terminal
+    status      : active
 
 ---
 
@@ -24,17 +29,19 @@
 
 ---
 
-## > analytics
+## > analytics.core
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ktaeyvne&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ktaeyvne&show_icons=true&theme=tokyonight&hide_border=true"/>
   <br>
-  <img src="https://streak-stats.demolab.com?user=ktaeyvne&theme=tokyonight&hide_border=true&background=000000"/>
+  <img src="https://streak-stats.demolab.com?user=ktaeyvne&theme=tokyonight&hide_border=true"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktaeyvne&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## > activity.map
+## > activity.visualizer
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ktaeyvne/ktaeyvne/output/github-contribution-grid-snake-dark.svg" />
@@ -42,15 +49,31 @@
 
 ---
 
-## > project.status
+## > terminal.interface
+
+    > help
+    - about        : show profile
+    - skills       : html, css, javascript, react
+    - projects     : loading
+    - status       : active
+
+    > run system
+    [ OK ] interface loaded
+    [ OK ] modules running
+    [ OK ] system stable
+
+---
+
+## > project.loader
 
     [ scanning repositories... ]
-    [ loading modules... ]
+    [ initializing modules... ]
+    [ building portfolio... ]
     [ status: in progress ]
 
 ---
 
-## > network.link
+## > network.access
 
 <p align="center">
   <a href="https://github.com/ktaeyvne">
@@ -60,22 +83,23 @@
 
 ---
 
-## > visitor.log
+## > visitor.counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ktaeyvne&label=visitors&color=00F7FF&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=ktaeyvne&label=system%20visitors&color=00F7FF&style=for-the-badge"/>
 </p>
 
 ---
 
 ## > system.message
 
-    Design clean interfaces.
-    Build modern systems.
-    Keep evolving.
+    build consistently.
+    improve daily.
+    stay focused.
+    evolve.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=140&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=170&section=footer&animation=twinkling"/>
 </p>
