@@ -1,7 +1,7 @@
 <h1 align="center">🖥️ COSMIC TERMINAL</h1>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1200&auto=format&fit=crop&sat=-30&hue=280" width="50%"/>
+  <img src="https://raw.githubusercontent.com/ktaeyvne/ktaeyvne/main/1.gif" width="100%"/>
 </p>
 
 ---
