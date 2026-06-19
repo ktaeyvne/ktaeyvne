@@ -44,12 +44,6 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ktaeyvne/ktaeyvne/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=8A2BE2&center=true&vCenter=true&width=550&lines=⌬+TERMINAL.INTERFACE" />
 </p>
 
